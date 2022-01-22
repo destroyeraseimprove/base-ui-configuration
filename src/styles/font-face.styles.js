@@ -1,10 +1,8 @@
 export default {
   "@font-face": [
     {
-      fontFamily: "Orbitron",
-      src: `url('./fonts/orbitron/Orbitron-Regular.ttf') format('ttf'),
-
-         `,
+      fontFamily: "Roboto",
+      src: `url('fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf') format('truetype')`,
     },
   ],
 };

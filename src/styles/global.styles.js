@@ -13,8 +13,8 @@ export default {
     html: {
       background: "#ccc",
     },
-    ".orbitron": {
-      fontFamily: "'Orbitron', sans-serif",
+    ".roboto": {
+      fontFamily: "'Roboto', sans-serif",
     },
   },
 };

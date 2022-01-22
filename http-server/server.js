@@ -20,5 +20,11 @@ const test2Router = require("./routes/test2Router");
 app.use("/test1route", test1Router);
 app.use("/test2route", test2Router);
 
+app.get("*", function (request, response) {
+  if (request.path.match(/\/[^\/.]*$/)) {
+    response.sendFile(path.resolve(__dirname + "./../dist", "index.html"));
+  }
+});
+
 console.log("Listening on port: " + PORT);
 app.listen(PORT);

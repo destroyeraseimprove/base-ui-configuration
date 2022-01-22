@@ -7,8 +7,8 @@ export default () => {
   const classes = createUseStyles(styles)();
 
   return (
-    <div className={`${classes.appContainer} orbitron`}>
-      PDP Portal App Content
+    <div className={`${classes.appContainer} roboto`}>
+      App Content
       <TestComponent1 />
     </div>
   );
