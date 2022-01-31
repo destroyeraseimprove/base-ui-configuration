@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1643636022180" clover="3.2.0">
+  <project timestamp="1643636022182" name="All files">
+    <metrics statements="17" coveredstatements="9" conditionals="4" coveredconditionals="3" methods="9" coveredmethods="5" elements="30" coveredelements="17" complexity="0" loc="17" ncloc="17" packages="5" files="9" classes="9"/>
+    <package name="common.components.Loader">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="Loader.jsx" path="/Volumes/Foo 1/dev/base-configuration/base-ui-configuration/src/common/components/Loader/Loader.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="6" count="2" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/Volumes/Foo 1/dev/base-configuration/base-ui-configuration/src/common/components/Loader/index.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="common.http">
+      <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="index.js" path="/Volumes/Foo 1/dev/base-configuration/base-ui-configuration/src/common/http/index.js">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.AppContainer">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.jsx" path="/Volumes/Foo 1/dev/base-configuration/base-ui-configuration/src/components/AppContainer/index.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+      <file name="styles.js" path="/Volumes/Foo 1/dev/base-configuration/base-ui-configuration/src/components/AppContainer/styles.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.TestComponent1">
+      <metrics statements="8" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="2"/>
+      <file name="index.jsx" path="/Volumes/Foo 1/dev/base-configuration/base-ui-configuration/src/components/TestComponent1/index.jsx">
+        <metrics statements="8" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="2"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+      </file>
+      <file name="styles.js" path="/Volumes/Foo 1/dev/base-configuration/base-ui-configuration/src/components/TestComponent1/styles.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="styles">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="font-face.styles.js" path="/Volumes/Foo 1/dev/base-configuration/base-ui-configuration/src/styles/font-face.styles.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="global.styles.js" path="/Volumes/Foo 1/dev/base-configuration/base-ui-configuration/src/styles/global.styles.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
